@@ -16,7 +16,7 @@
 
 To test this app on your local server:
 
-- Git clone the repository on your terminal or simply copy paste this url `https://github.com/codemaniac-sahil/def-call-project.git`
+- Git clone the repository on your terminal or simply copy paste this url `https://github.com/thesayedomaraabid/def-call-project.git`
 - open the folder in terminal and type `npm i` to install all the dependencies
 - type `npm start`
 
